@@ -6,8 +6,9 @@ public class Program {
         ordenacaoPessoa.adicionarPessoa("Nome 3", 40, 1.90);
         ordenacaoPessoa.adicionarPessoa("Nome 4", 25, 1.60);
 
-        System.out.println(ordenacaoPessoa.ordernarPorIdade());
-        System.out.println(ordenacaoPessoa.ordernarPorAltura());
+
+//        System.out.println(ordenacaoPessoa.ordernarPorIdade());
+//        System.out.println(ordenacaoPessoa.ordernarPorAltura());
 
     }
 }
