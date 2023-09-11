@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/List.iml" filepath="$PROJECT_DIR$/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ordenacao/Ordenacao.iml" filepath="$PROJECT_DIR$/Ordenacao/Ordenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenacao-Produto/Ordenacao-Produto.iml" filepath="$PROJECT_DIR$/Ordenacao-Produto/Ordenacao-Produto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pesquisa-Livros/Pesquisa-Livros.iml" filepath="$PROJECT_DIR$/Pesquisa-Livros/Pesquisa-Livros.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pesquisa-Set/Pesquisa-Set.iml" filepath="$PROJECT_DIR$/Pesquisa-Set/Pesquisa-Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Set-Interface/Set-Interface.iml" filepath="$PROJECT_DIR$/Set-Interface/Set-Interface.iml" />
