@@ -8,8 +8,8 @@ public class AgendaContatos {
         this.agendaContatoMap = new HashMap<>();
     }
 
-    public void adicionarContato(String nome, Integer numero) {
-        agendaContatoMap.put(nome, numero);
+    public void adicionarContato(String nome, Integer telefone) {
+        agendaContatoMap.put(nome, telefone);
     }
 
     public void removerContato(String nome) {
@@ -29,6 +29,4 @@ public class AgendaContatos {
         }
         return numeroPorNome;
     }
-
-
 }
