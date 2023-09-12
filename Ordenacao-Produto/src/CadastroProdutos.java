@@ -32,7 +32,6 @@ public class CadastroProdutos {
             throw new RuntimeException("O conjunto está vazio!");
         }
     }
-
     class CompratorPorPreco implements Comparator<Produto> {
         @Override
         public int compare(Produto p1, Produto p2) {
