@@ -12,6 +12,10 @@ public class EstoqueProdutos {
         estoqueProdutosMap.put(cod, new Produto(nome, preco, quantidade));
     }
 
+    public void exibirProdutos() {
+        System.out.println(estoqueProdutosMap);
+    }
+
     public double calcularValorTotalEstoque() {
         double valorTotalEstoque = 0d;
         if(!estoqueProdutosMap.isEmpty()) {
