@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Conhecendo Collections Java.iml" filepath="$PROJECT_DIR$/Conhecendo Collections Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map-Interface/Map-Interface.iml" filepath="$PROJECT_DIR$/Map-Interface/Map-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map-Ordenacao/Map-Ordenacao.iml" filepath="$PROJECT_DIR$/Map-Ordenacao/Map-Ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map-Pesquisa/Map-Pesquisa.iml" filepath="$PROJECT_DIR$/Map-Pesquisa/Map-Pesquisa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ordenacao/Ordenacao.iml" filepath="$PROJECT_DIR$/Ordenacao/Ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ordenacao-Produto/Ordenacao-Produto.iml" filepath="$PROJECT_DIR$/Ordenacao-Produto/Ordenacao-Produto.iml" />
